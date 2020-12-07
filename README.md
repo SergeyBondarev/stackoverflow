@@ -2,7 +2,7 @@
 ### Table of Contents
 
 1. [Installation](#installation)
-2. [Data] (#data)
+2. [Data](#data)
 3. [Project Motivation](#motivation)
 4. [File Descriptions](#files)
 5. [Results](#results)
