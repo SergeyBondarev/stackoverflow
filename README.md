@@ -2,14 +2,19 @@
 ### Table of Contents
 
 1. [Installation](#installation)
-2. [Project Motivation](#motivation)
-3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+2. [Data] (#data)
+3. [Project Motivation](#motivation)
+4. [File Descriptions](#files)
+5. [Results](#results)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+
+## Data <a name="data"></a>
+
+You can find data [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data). Download it to *data* folder in the root directory.
 
 ## Project Motivation<a name="motivation"></a>
 
